@@ -2,18 +2,23 @@ body {
   background-color: #3c281f;
   line-height: 300%;
   padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
 }
 h1 {
   color: #F9D904;
   font-size: 4em;
   line-height: 1em;
   margin-bottom: 0;
+  font-weight: 500;
 }
 h1#germano {
   font-family: 'Candal', sans-serif;
   text-align: right;
   margin-bottom: -3px;
   padding-right: 16px;
+  margin-top: 20px;
 }
 h1 a {
   color: #F9D904;
@@ -34,6 +39,15 @@ h2 {
   color: #FEFEFE;
   font-size: 28px;
 }
+a {
+  text-decoration: none;
+  background-color: transparent;
+}
+strong {
+  color: #FFFFFF;
+  letter-spacing: 0.05em;
+}
+
 #container {
   background: #2C5E7D;
   margin: 0 auto;
@@ -43,7 +57,7 @@ h2 {
   background: #2C5E7D url('../img/skyline.png') no-repeat bottom left;
   min-height: 420px;
   background-position-x: 80px;
-  padding: 50px 80px 60px;
+  padding: 30px 80px 60px;
 }
 #home p a,
 #home #container li a {
@@ -57,10 +71,6 @@ h2 {
   text-decoration: none;
   border-bottom: none;
   border-radius: 2px;
-}
-strong {
-  color: #FFFFFF;
-  letter-spacing: 0.05em;
 }
 
 /* Homepage */

@@ -13,15 +13,6 @@
   <!--[if lt IE 9]>
   <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-<script>
-  $(function(){
-    // print button
-    $(".print").bind("click", function(){
-      window.print();
-    });
-  });
-</script>
 </head>
 
 <body id="resume">
@@ -122,7 +113,7 @@
 
     </section>
 
-  <p id="next-steps"><span class="btn print">Print this Page</span></p>
+  <p id="next-steps"><span class="btn print"><a href="javascript:window.print();">Print this Page</a></span></p>
 
 <script type="text/javascript">
 

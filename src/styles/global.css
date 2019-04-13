@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Candal';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/candal-v8-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Candal'),
+       url('../assets/fonts/candal-v8-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/candal-v8-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/candal-v8-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../assets/fonts/candal-v8-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/candal-v8-latin-regular.svg#Candal') format('svg'); /* Legacy iOS */
+}
+
 body {
   background-color: #3c281f;
   line-height: 300%;
@@ -113,25 +126,25 @@ ul.links li {
   animation-duration:1s;
 }
 .fade-in.one {
-  -webkit-animation-delay: 0.7s;
-  -moz-animation-delay: 0.7s;
-  animation-delay: 0.7s;
+  -webkit-animation-delay: 0.1s;
+  -moz-animation-delay: 0.1s;
+  animation-delay: 0.1s;
 }
 .fade-in.two {
-  -webkit-animation-delay: 1.5s;
-  -moz-animation-delay:1.5s;
-  animation-delay: 1.5s;
+  -webkit-animation-delay: .9s;
+  -moz-animation-delay:.9s;
+  animation-delay: .9s;
 }
 .fade-in.three {
-  -webkit-animation-delay: 2.3s;
-  -moz-animation-delay: 2.3s;
-  animation-delay: 2.3s;
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay: 1.2s;
+  animation-delay: 1.2s;
 }
 
 /* Footer */
 #stripe {
   height: 50px;
-  background: url('../assets/resume_bg.png') repeat-x;
+  background: url('../assets/resume_bg.png') repeat;
 }
 #footer {
   padding: 20px 0 40px 80px;
@@ -224,7 +237,10 @@ ul#social {
   vertical-align: middle;
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 1em 1em; }
+  background-size: 1em 1em; 
+  padding: 0 .5em; /* custom */
+}
+h2 i:first-child, p i:first-child { padding-left: 0;} /* custom */
 
 .e1a-lg {
   width: 1.25em;
@@ -264,3 +280,5 @@ ul#social {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2744.svg"); }
 .e1a-metal_tone2 {
   background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/1f918-1f3fc.svg"); }
+  .e1a-hammer_pick {
+    background-image: url("//cdn.jsdelivr.net/emojione/assets/svg/2692.svg"); }

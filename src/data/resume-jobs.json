@@ -1,0 +1,52 @@
+{
+    "jobs": [
+        {
+            "company": "Pantheon",
+            "url": "https://pantheon.io",
+            "daterange": "September 2017 - Present",
+            "roles": [
+                {
+                    "title": "Support Manager",
+                    "description": "Managing a team of support engineers and handling technical escalations.",
+                },
+                {
+                    "title": "Senior Customer Success Engineer",
+                    "description": "Provided technical guidance to customers. Included reviewing log files, New Relic data, codebase structure/contents and identifying potential points of failure, as well as areas of improvement.",
+                }
+            ]
+        },
+        {
+            "company": "Advomatic",
+            "url": "https://advomatic.com",
+            "daterange": "July 2014 - September 2017",
+            "roles": [
+                {
+                    "title": "Senior Developer",
+                    "description": "Agile website development for progressive advocacy organizations. Spec writing, custom module development and advanced site building using modern build tools."
+                }
+            ]
+        },
+        {
+            "company": "American Public Media | Minnesota Public Radio",
+            "url": "https://publicradio.org",
+            "daterange": "November 2013 - July 2014",
+            "roles": [
+                {
+                    "title": "Web Developer",
+                    "description": "Back-end Drupal development for the public radio program <em>Marketplace</em>. Architected CMS-driven solutions for multimedia content creation and syndication. Continuously improved site performance."
+                }
+            ]
+        },
+        {
+            "company": "Science Museum of Minnesota",
+            "url": "https://smm.org",
+            "daterange": "September 2009 - November 2013",
+            "roles": [
+                {
+                    "title": "Multimedia Designer",
+                    "description": "Designed and developed hands-on exhibits, data visualizations, and web experiences using Drupal and related web technologies."
+                }
+            ]
+        }
+    ]
+}

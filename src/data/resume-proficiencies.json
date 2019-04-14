@@ -1,0 +1,34 @@
+{
+    "proficiencies": [
+        {
+            "languages": [
+                "PHP/MySQL",
+                "JavaScript",
+                "Python"
+            ],
+            "tools": [
+                "Drupal 6/7/8",
+                "WordPress",
+                "Gatsby",
+                "MySQL",
+                "Git",
+                "Varnish",
+                "Redis",
+                "Apache Solr",
+                "New Relic",
+                "Docker"
+            ],
+            "skills": [
+                "Bash scripting",
+                "Data migration",
+                "Data visualization",
+                "Performance auditing",
+                "Technical documentation",
+                "UNIX command line",
+                "User experience",
+                "Web accessibility",
+                "Wireframing"
+            ]
+        }
+    ]
+}

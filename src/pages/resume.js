@@ -1,7 +1,7 @@
 import React from "react"
 import Header from "../components/header"
-import Jobs from "../components/resume-jobs"
-import Proficiencies from "../components/resume-proficiencies"
+import Jobs from "../components/resumeJobs"
+import Proficiencies from "../components/resumeProficiencies"
 
 function Resume () {
   require('../styles/resume.css')

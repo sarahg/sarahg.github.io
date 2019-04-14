@@ -1,10 +1,12 @@
 [
-    {
+    {    
         "languages": [
             "PHP/MySQL",
             "JavaScript",
             "Python"
-        ],
+        ]
+    },
+    {    
         "tools": [
             "Drupal 6/7/8",
             "WordPress",
@@ -16,7 +18,9 @@
             "Apache Solr",
             "New Relic",
             "Docker"
-        ],
+        ]
+    },
+    {    
         "skills": [
             "Bash scripting",
             "Data migration",

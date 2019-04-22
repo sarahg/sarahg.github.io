@@ -9,8 +9,8 @@
     {    
         "tools": [
             "Drupal 6/7/8",
+            "Gatsby/GraphQL",
             "WordPress",
-            "Gatsby",
             "MySQL",
             "Git",
             "Varnish",

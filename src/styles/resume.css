@@ -1,4 +1,96 @@
-/* open-sans-regular - latin */
+#resume-wrapper { 
+  display: block;
+  background: url('../assets/resume_bg.png') repeat; 
+  font-family: Georgia, "Times New Roman", Times, serif; 
+  color: #252525;
+  height: 100%;
+  float: left;
+  width: 100%;
+}
+#resume { 
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  background-color: #fff;
+  padding: 40px 50px;
+}
+
+#mynameis h1 a { color: #2c5e7d; }
+#mynameis h1 a:hover { text-decoration: none; }
+#mynameis h1 {
+  font-size: 50px;
+  margin: 0 auto;
+}
+#resume h2 { font-size: 24px; font-weight: 700; margin: 0; line-height: normal; text-transform: uppercase; color: #c34b01;}
+#resume h3 { font-size: 18px; font-weight: 400; margin: 0; line-height: normal;}
+#resume h4 { font-size: 16px; font-weight: 300; margin: 4px 0 0; line-height: normal; font-style: italic; }
+
+#mynameis h2 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #603913;
+  margin-top: 5px;
+}
+
+#resume p { font-weight: 300; line-height: 1.5em; margin:0 0 18px; font-size: 15px;}
+
+#resume a { color: #252525; text-decoration: none;}
+#resume a:hover { text-decoration: underline;}
+
+#resume header, #resume section { max-width: 740px; margin-bottom: 22px; }
+
+article { margin-bottom: 20px;}
+
+.job-daterange { 
+  font-size: 18px; 
+  color: #c34b01;
+  margin: 0 0 -5px 0;
+  display: block;
+}
+
+dl { margin-bottom: 15px;}
+dt { font-size: 21px; color: #c34b01; margin: 15px 0 0;}
+dd { line-height: 1.4; margin: 0; font-weight: 300; font-size: 16px;}
+dd:before{
+  content: "\00bb";
+  margin-right: 4px;
+}
+
+div.print { text-align: center; font-size: 12px; margin-bottom:28px; letter-spacing: 3px; text-transform: uppercase; color: #666; line-height: 2.5em !important; font-family: Georgia, "Times New Roman", Times, serif;}
+div.print a{ color: #666;}
+
+header:after{ content: ''; display: block; clear: both; visibility: hidden; height: 0;}
+
+/* Small screens */
+@media screen and (max-width: 799px) {
+  #resume-wrapper { background: none; }
+  #resume { padding: 5% 10%; float: left;}
+  div.print { display: none !important;}
+}
+/* Everybody else */
+@media screen and (min-width: 800px) {
+  #mynameis { float: left; margin: 0;}
+  #resume {
+    margin: 25px auto;
+    width: 740px;
+  }
+  section.jobs {display: inline-block;}
+  section.jobs article { width: 63.513514%; float: left;}
+  aside { float: right; width: 30%;}
+  dl { width: auto; float: none; margin-bottom: 0;}
+}
+/* for people who print things */
+@media print{
+  #resume-wrapper { background: none; }
+  #resume > section { padding: 0;}
+  p { font-size: 14px;}
+  #mynameis { float: left; margin: 0;}
+  #mynameis h1 { font-size: 30px; font-weight: 400; }
+  section.jobs article { width: 63.513514%; float: left;}
+  aside { float: right; width: 30%;}
+  dl { width: auto; float: none; margin-bottom: 0;}
+  dd { font-size: 14px;}
+  div.print { display: none !important;}
+}
+
 /* open-sans-regular - latin */
 @font-face {
   font-family: 'Open Sans';
@@ -76,100 +168,4 @@
        url('../assets/fonts/open-sans-v16-latin-300italic.woff') format('woff'), /* Modern Browsers */
        url('../assets/fonts/open-sans-v16-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../assets/fonts/open-sans-v16-latin-300italic.svg#OpenSans') format('svg'); /* Legacy iOS */
-}
-
-#resume-wrapper { 
-  display: block;
-  padding: 15px; 
-  background: url('../assets/resume_bg.png') repeat; 
-  font-family: Georgia, "Times New Roman", Times, serif; 
-  color: #252525;
-  height: 100%;
-  float: left;
-  width: 100%;
-}
-#resume { 
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-}
-
-#mynameis a { color: #2c5e7d; }
-#mynameis a:hover { text-decoration: none; }
-#mynameis h1 {
-  font-size: 50px;
-  margin: 0 auto;
-}
-#mynameis h2 {
-  margin-top: 8px;
-  font-size: 18px;
-  font-weight: 600;
-  color: #603913;
-}
-#resume h2 { font-size: 24px; font-weight: 700; margin: 0 0 15px; text-transform: uppercase; color: #c34b01;}
-#resume h3 { font-size: 18px; font-weight: 400; margin: 8px 0 5px; line-height: 1.25em;}
-#resume h4 { font-size: 16px; font-weight: 300; font-style: italic; margin-bottom: 8px;}
-
-#resume-wrapper p { line-height: 1.5em; margin:0 0 18px; font-size: 15px;}
-#resume p { font-weight: 300; line-height: 1.4em;}
-
-#resume a { color: #252525; text-decoration: none;}
-#resume a:hover { text-decoration: underline;}
-
-#resume header, #resume section { background-color: #fff; max-width: 740px; padding: 20px 25px; }
-
-#mynameis { float: left; }
-
-article { margin-bottom: 20px;}
-
-.job-daterange { font-size: 18px; color: #c34b01;}
-
-dl{ margin-bottom: 15px;}
-dt{ font-size: 21px; color: #c34b01; margin: 15px 0 8px;}
-dd{ margin-bottom: 6px; font-weight: 300; font-size: 14px;}
-dd:before{
-  content: "\00bb";
-  margin-right: 4px;
-}
-
-#next-steps{ text-align: center; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; color: #666; line-height: 2.5em !important; font-family: Georgia, "Times New Roman", Times, serif;}
-#next-steps a{ color: #666;}
-
-header:after{ content: ''; display: block; clear: both; visibility: hidden; height: 0;}
-
-@media screen and (min-width: 600px){
-  #resume-wrapper { padding: 20px 40px;}
-  #resume{ padding: 40px 50px;}
-  p#signature{ width: 40%; float: right;}
-  dl{ width: 33.3333%; float: left; margin-bottom: 20px;}
-}
-
-@media screen and (min-width: 800px){
-  #mynameis{ float: left; margin: 0;}
-  #resume {
-    margin: 0 auto;
-    width: 740px;
-  }
-  #contact-info{ float: right; width: 30%; margin-top: 15px 0 0; text-align: left; clear: none;}
-  section.jobs {display: inline-block;}
-  section.jobs article { width: 63.513514%; float: left;}
-  aside { float: right; width: 30%;}
-  dl{ width: auto; float: none; margin-bottom: 0;}
-    dd{ font-size: 16px;}
-
-}
-
-@media print{
-  body { background: none; }
-  body > section{ padding: 10px 10px 0;}
-  p{ font-size: 14px;}
-  #next-steps{ display: none !important;}
-
-  #mynameis h1 { font-size: 40px; }
-  #contact-info{ float: right; width: 30%; margin-top: 15px 0 0; text-align: left; clear: none;}
-
-  body > section section{ width: 63.513514%; float: left; clear: left;}
-  aside{ float: right; width: 30%;}
-
-  dl{ width: auto; float: none; margin-bottom: 0;}
-    dd{ font-size: 14px;}
-
 }

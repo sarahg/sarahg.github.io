@@ -27,7 +27,7 @@ function Resume () {
         </aside>
       </section>
     </div>
-    <p id="next-steps"><span className="btn print"><a href="#print">Print this Page</a></span></p>
+    <div className="btn print"><a href="#print">Print this Page</a></div>
   </div>
 }
 

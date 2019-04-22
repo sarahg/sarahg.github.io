@@ -41,7 +41,7 @@ function listJobs(data) {
 function getRoleList(item) {
   let roleList = [];
   item.node.roles.forEach(role => {
-    roleList.push(<div key={role.title}><h4>{role.title}</h4><p>{role.description}</p></div>);
+    roleList.push(<div key={role.title}><h4>{role.title}</h4><p dangerouslySetInnerHTML={{__html: role.description}}></p></div>);
   });
   return roleList;
 }

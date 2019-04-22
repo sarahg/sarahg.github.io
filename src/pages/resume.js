@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import Header from "../components/header"
 import Jobs from "../components/resumeJobs"
 import Proficiencies from "../components/resumeProficiencies"
@@ -8,7 +9,11 @@ function Resume () {
 
   // @todo javascript:window.print();
 
-  return <div id="resume-wrapper">
+  return <><Helmet>
+    <title>Sarah German | Resume</title>
+  </Helmet>
+  
+  <div id="resume-wrapper">
     <div id="resume">
       <header>
         <div id="mynameis">
@@ -28,7 +33,7 @@ function Resume () {
       </section>
     </div>
     <div className="print"><a href="#print">Print this Page</a></div>
-  </div>
+  </div></>
 }
 
 export default Resume

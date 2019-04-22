@@ -1,10 +1,15 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { Link } from "gatsby"
 import Header from "../components/header"
 import Footer from "../components/footer"
 
 function Homepage () {
-  return <div>
+  return <><Helmet>
+    <title>Sarah German | internet fixer</title>
+  </Helmet>
+  
+  <div>
     <div id="container" className="dark-wrap">
       <Header headerText="Sarah German"></Header>
       <h2>
@@ -20,7 +25,7 @@ function Homepage () {
       </ul>
     </div>
     <Footer></Footer>
-  </div>
+  </div></>
 }
 
 export default Homepage

@@ -1,10 +1,15 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { Link } from "gatsby"
 import Header from "../components/header"
 import Footer from "../components/footer"
 
 function Aboutpage () {
-  return <div>
+  return <><Helmet>
+    <title>Sarah German | about this site</title>
+  </Helmet>
+
+  <div>
     <div id="container" className="dark-wrap">
       <Header headerText="Sarah German"></Header>
       <h2><i className="e1a-floppy_disk"></i> about this site</h2>
@@ -19,7 +24,7 @@ function Aboutpage () {
            for sharing this very cool framework.)</em></p>
     </div>
     <Footer></Footer>
-  </div>
+  </div></>
 }
 
 export default Aboutpage

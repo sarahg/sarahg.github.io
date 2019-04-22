@@ -54,8 +54,17 @@ dd:before{
   margin-right: 4px;
 }
 
-div.print { text-align: center; font-size: 12px; margin-bottom:28px; letter-spacing: 3px; text-transform: uppercase; color: #666; line-height: 2.5em !important; font-family: Georgia, "Times New Roman", Times, serif;}
-div.print a{ color: #666;}
+div#print { 
+  text-align: center; 
+  font-size: 12px; 
+  margin-bottom:28px; 
+  letter-spacing: 3px; 
+  text-transform: uppercase; 
+  color: #666; 
+  line-height: 2.5em !important; 
+  font-family: Georgia, "Times New Roman", Times, serif;
+  cursor: pointer;
+}
 
 header:after{ content: ''; display: block; clear: both; visibility: hidden; height: 0;}
 
@@ -63,7 +72,7 @@ header:after{ content: ''; display: block; clear: both; visibility: hidden; heig
 @media screen and (max-width: 799px) {
   #resume-wrapper { background: none; }
   #resume { padding: 5% 10%; float: left;}
-  div.print { display: none !important;}
+  div#print { display: none !important;}
 }
 /* Everybody else */
 @media screen and (min-width: 800px) {
@@ -80,15 +89,15 @@ header:after{ content: ''; display: block; clear: both; visibility: hidden; heig
 /* for people who print things */
 @media print{
   #resume-wrapper { background: none; }
-  #resume > section { padding: 0;}
+  #resume { padding: 10px 0 0;}
   p { font-size: 14px;}
   #mynameis { float: left; margin: 0;}
-  #mynameis h1 { font-size: 30px; font-weight: 400; }
+  #mynameis h1 { font-size: 40px; font-weight: 400; }
   section.jobs article { width: 63.513514%; float: left;}
   aside { float: right; width: 30%;}
   dl { width: auto; float: none; margin-bottom: 0;}
   dd { font-size: 14px;}
-  div.print { display: none !important;}
+  div#print { display: none !important;}
 }
 
 /* open-sans-regular - latin */

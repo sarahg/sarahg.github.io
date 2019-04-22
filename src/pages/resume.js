@@ -7,8 +7,6 @@ import Proficiencies from "../components/resumeProficiencies"
 function Resume () {
   require('../styles/resume.css')
 
-  // @todo javascript:window.print();
-
   return <><Helmet>
     <title>Sarah German | Resume</title>
   </Helmet>
@@ -32,8 +30,12 @@ function Resume () {
         </aside>
       </section>
     </div>
-    <div className="print"><a href="#print">Print this Page</a></div>
+    <div id="print" onClick={printPage}>Print this Page</div>
   </div></>
+}
+
+function printPage() {
+  window.print();
 }
 
 export default Resume

@@ -165,7 +165,7 @@ ul#social {
   border-right: 1px solid #FFFFFF;
   padding: 0 8px 0 6px;
 }
-#social li.last {
+#social li:last-child {
   border-right: none;
 }
 #social a, #social a:hover {
@@ -181,19 +181,20 @@ ul#social {
 }
 
 /* Media queries */
-@media all and (max-width: 545px) {
-  ul.links li {
-    display: block;
-  }
-}
-@media all and (max-width: 779px) {
+@media all and (max-width: 850px) {
   #footer img {
     display: none;
+  }
+  ul.links {
+    margin-bottom: 220px;
+  }
+  ul.links li {
+    display:inline-block;
   }
   ul#social {
     width: 70%;
   }
-  .dark-wrap #container,
+  .dark-wrap#container,
   #container {
     padding: 20px;
     background-position-x: 10px;
@@ -223,6 +224,9 @@ ul#social {
 @media all and (min-width: 850px) {
   #container {
     padding-left: 40px;
+  }
+  ul.links {
+    margin-bottom: 180px;
   }
 }
 

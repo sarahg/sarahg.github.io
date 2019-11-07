@@ -16,7 +16,6 @@ function Resume () {
       <header>
         <div id="mynameis">
           <Header headerText="Sarah German"></Header>
-          <h2>Engineering Manager + Internet Fixer</h2>
         </div>
       </header>
       <section className="jobs">

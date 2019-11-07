@@ -30,7 +30,7 @@
   margin-top: 5px;
 }
 
-#resume p { font-weight: 300; line-height: 1.5em; margin:0 0 18px; font-size: 15px;}
+#resume p { font-weight: 300; line-height: 1.5em; margin:0; font-size: 15px;}
 
 #resume a { color: #252525; text-decoration: none;}
 #resume a:hover { text-decoration: underline;}
@@ -42,7 +42,7 @@ article { margin-bottom: 20px;}
 .job-daterange { 
   font-size: 18px; 
   color: #c34b01;
-  margin: 0 0 -5px 0;
+  margin: 10px 0 -5px;
   display: block;
 }
 

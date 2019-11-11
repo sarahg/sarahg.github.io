@@ -11,9 +11,8 @@
             "Drupal 6/7/8",
             "Gatsby/GraphQL",
             "WordPress",
-            "MySQL",
             "Git",
-            "Varnish",
+            "Varnish/VCL",
             "Redis",
             "Apache Solr",
             "New Relic",
@@ -22,6 +21,7 @@
     },
     {    
         "skills": [
+            "Accessible design",
             "Agile methodology",
             "Bash scripting",
             "Data migration",

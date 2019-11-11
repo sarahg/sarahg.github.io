@@ -26,6 +26,12 @@ function Resume () {
         <aside>
           <h2>Proficiencies</h2>
           <Proficiencies></Proficiencies>
+          <section id="edu">
+            <h2>Education</h2>
+            <p>University of Denver<br/>
+            BA, Digital Media Studies<br/>
+            2003 - 2007</p>
+          </section>
         </aside>
       </section>
     </div>

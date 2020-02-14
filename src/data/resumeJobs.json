@@ -6,7 +6,7 @@
         "roles": [
             {
                 "title": "Support Manager",
-                "description": "Managing a team of support engineers and handling technical escalations."
+                "description": "Manage a team of support engineers and handle technical escalations. Work with Product and Engineering teams to support new features and triage bugs."
             },
             {
                 "title": "Senior Customer Success Engineer",
@@ -32,7 +32,7 @@
         "roles": [
             {
                 "title": "Web Developer",
-                "description": "Back-end Drupal development for the public radio program <em>Marketplace</em>. Architected CMS-driven solutions for multimedia content creation and syndication. Continuously improved site performance."
+                "description": "Architected CMS-driven solutions for multimedia content creation and syndication. Continuously improved Drupal website performance."
             }
         ]
     },
@@ -44,6 +44,17 @@
             {
                 "title": "Multimedia Designer",
                 "description": "Designed and developed hands-on exhibits, data visualizations, and web experiences using Drupal and related web technologies."
+            }
+        ]
+    },
+    {
+        "company": "August Ash",
+        "url": "https://augustash.com",
+        "daterange": "June 2008 - September 2009",
+        "roles": [
+            {
+                "title": "Client Services Manager/Developer",
+                "description": "Managed ongoing website needs of 250+ clients, working with a variety of PHP frameworks and eCommerce platforms."
             }
         ]
     }

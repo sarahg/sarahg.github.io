@@ -28,7 +28,7 @@ function listJobs(data) {
   const jobsArray = [];
   data.allResumeJobsJson.edges.forEach(item => {
     jobsArray.push(
-      <div key={item.node.company}>
+      <div className="company" key={item.node.company}>
         <span className="job-daterange">{item.node.daterange}</span>
         <h3><a href={item.node.url}>{item.node.company}</a></h3>
         {getRoleList(item)}
@@ -41,7 +41,7 @@ function listJobs(data) {
 function getRoleList(item) {
   let roleList = [];
   item.node.roles.forEach(role => {
-    roleList.push(<div key={role.title}><h4>{role.title}</h4><p dangerouslySetInnerHTML={{__html: role.description}}></p></div>);
+    roleList.push(<div className="jorb" key={role.title}><h4>{role.title}</h4><p dangerouslySetInnerHTML={{__html: role.description}}></p></div>);
   });
   return roleList;
 }

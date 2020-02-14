@@ -13,3 +13,6 @@ My personal website, built with GatsbyJS.
 5. To deploy to GitHub pages, run `npm run deploy:github`. This will run `gatsby build`
 and push the `static` directory to the `master` branch on GitHub.
 6. Purge caches on Cloudflare (@todo automate this).
+
+### Package updates
+Use `yarn` to update packages.

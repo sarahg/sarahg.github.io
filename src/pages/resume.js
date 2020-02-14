@@ -35,12 +35,7 @@ function Resume () {
         </aside>
       </section>
     </div>
-    <div id="print" onClick={printPage}>Print this Page</div>
   </div></>
-}
-
-function printPage() {
-  window.print();
 }
 
 export default Resume

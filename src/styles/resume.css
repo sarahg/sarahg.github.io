@@ -1,6 +1,8 @@
+body {
+  background: url('../assets/resume_bg.png') repeat;
+}
 #resume-wrapper { 
   display: block;
-  background: url('../assets/resume_bg.png') repeat; 
   font-family: Georgia, "Times New Roman", Times, serif; 
   color: #252525;
   height: 100%;
@@ -19,7 +21,7 @@
   font-size: 50px;
   margin: 0 auto;
 }
-#resume h2 { font-size: 24px; font-weight: 700; margin: 0; line-height: normal; text-transform: uppercase; color: #c34b01;}
+#resume h2 { font-size: 24px; font-weight: 700; margin: 4px 0 -10px 0; line-height: normal; text-transform: uppercase; color: #c34b01;}
 #resume h3 { font-size: 18px; font-weight: 400; margin: 0; line-height: normal;}
 #resume h4 { font-size: 16px; font-weight: 300; margin: 4px 0 0; line-height: normal; font-style: italic; }
 

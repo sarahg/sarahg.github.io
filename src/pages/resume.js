@@ -7,7 +7,9 @@ import Proficiencies from "../components/resumeProficiencies"
 function Resume () {
   require('../styles/resume.css')
 
-  return <><Helmet>
+  return <><Helmet bodyAttributes={{
+    class: 'page-resume'
+  }}>
     <title>Sarah German | Resume</title>
   </Helmet>
   

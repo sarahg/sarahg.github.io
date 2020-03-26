@@ -1,27 +1,27 @@
 [
     {    
         "languages": [
-            "PHP/MySQL",
             "JavaScript",
+            "PHP/SQL",
             "Python"
         ]
     },
     {    
         "tools": [
-            "Drupal 6/7/8",
-            "Gatsby/GraphQL",
+            "Drupal",
+            "Gatsby/React",
+            "GraphQL",
             "WordPress",
-            "Git",
             "Varnish/VCL",
             "Redis",
             "Apache Solr",
             "New Relic",
-            "Docker"
+            "Docker",
+            "Git"
         ]
     },
     {    
         "skills": [
-            "Accessible design",
             "Agile methodology",
             "Bash scripting",
             "Data migration",

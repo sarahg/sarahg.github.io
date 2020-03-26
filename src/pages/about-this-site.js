@@ -15,11 +15,8 @@ function Aboutpage () {
       <p>
       I built this static site using <a href="https://www.gatsbyjs.org/">GatsbyJS</a>. 
       It's hosted on <a href="https://pages.github.com/">GitHub Pages</a>, 
-      and I use <a href="https://www.cloudflare.com/">Cloudflare</a> for DNS, HTTPS and as a CDN.</p>
+      and I use <a href="https://www.cloudflare.com/">Cloudflare</a> for DNS/HTTPS/CDN.</p>
       <p><a href="https://github.com/sarahg/sarahg.github.io">Browse source on GitHub</a></p>
-      <p><em>(I know this is super-overkill for a three page site,
-           but I had fun learning how to make it work. Thanks to the GatsbyJS team
-           for sharing this very cool framework.)</em></p>
     </div>
     <Footer></Footer>
   </div></>

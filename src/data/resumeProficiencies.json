@@ -2,7 +2,8 @@
     {    
         "languages": [
             "JavaScript",
-            "PHP/SQL",
+            "SQL",
+            "PHP",
             "Python"
         ]
     },
@@ -14,7 +15,6 @@
             "WordPress",
             "Varnish/VCL",
             "Redis",
-            "Apache Solr",
             "New Relic",
             "Docker",
             "Git"

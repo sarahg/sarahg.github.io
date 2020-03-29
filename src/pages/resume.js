@@ -31,8 +31,7 @@ function Resume () {
           <section id="edu">
             <h2>Education</h2>
             <p>University of Denver<br/>
-            BA, Digital Media Studies<br/>
-            2003 - 2007</p>
+            BA, Digital Media Studies</p>
           </section>
         </aside>
       </section>

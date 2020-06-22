@@ -1,34 +1,36 @@
 [
     {    
         "languages": [
+            "Python",
             "JavaScript",
             "SQL",
-            "PHP",
-            "Python"
+            "PHP"
         ]
     },
     {    
         "tools": [
-            "Drupal",
-            "Gatsby/React",
-            "GraphQL",
-            "WordPress",
-            "Varnish/VCL",
-            "Redis",
-            "New Relic",
             "Docker",
-            "Git"
+            "Drupal",
+            "Gatsby.js",
+            "Git",
+            "GraphQL",
+            "New Relic",
+            "PostgreSQL",
+            "React",
+            "Redis",
+            "Varnish/VCL"
         ]
     },
     {    
         "skills": [
             "Agile methodology",
             "Bash scripting",
+            "Data analysis",
             "Data migration",
             "Data visualization",
             "Performance auditing",
+            "Statistics",
             "Technical documentation",
-            "UNIX command line",
             "User experience",
             "Web accessibility",
             "Wireframing"

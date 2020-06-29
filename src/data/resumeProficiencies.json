@@ -14,10 +14,12 @@
             "Gatsby.js",
             "Git",
             "GraphQL",
+            "Looker",
             "New Relic",
             "PostgreSQL",
             "React",
             "Redis",
+            "Tableau",
             "Varnish/VCL"
         ]
     },

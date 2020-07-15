@@ -1,41 +1,35 @@
 [
-    {    
-        "languages": [
-            "Python",
-            "JavaScript",
-            "SQL",
-            "PHP"
-        ]
-    },
-    {    
-        "tools": [
-            "Docker",
-            "Drupal",
-            "Gatsby.js",
-            "Git",
-            "GraphQL",
-            "Looker",
-            "New Relic",
-            "PostgreSQL",
-            "React",
-            "Redis",
-            "Tableau",
-            "Varnish/VCL"
-        ]
-    },
-    {    
-        "skills": [
-            "Agile methodology",
-            "Bash scripting",
-            "Data analysis",
-            "Data migration",
-            "Data visualization",
-            "Performance auditing",
-            "Statistics",
-            "Technical documentation",
-            "User experience",
-            "Web accessibility",
-            "Wireframing"
-        ]
-    }
+  {
+    "languages": ["JavaScript", "Python", "SQL", "PHP"]
+  },
+  {
+    "tools": [
+      "Docker",
+      "Drupal",
+      "Git",
+      "GraphQL",
+      "Looker (BI)",
+      "New Relic",
+      "Node.js",
+      "PostgreSQL",
+      "React",
+      "Redis",
+      "Varnish/VCL"
+    ]
+  },
+  {
+    "skills": [
+      "Agile methodology",
+      "Bash scripting",
+      "Data analysis",
+      "Data migration",
+      "Data visualization",
+      "Performance auditing",
+      "Statistics",
+      "Technical documentation",
+      "User experience",
+      "Web accessibility",
+      "Wireframing"
+    ]
+  }
 ]

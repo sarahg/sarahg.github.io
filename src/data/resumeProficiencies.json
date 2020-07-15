@@ -8,7 +8,6 @@
       "Drupal",
       "Git",
       "GraphQL",
-      "Looker (BI)",
       "New Relic",
       "Node.js",
       "PostgreSQL",
@@ -21,14 +20,15 @@
     "skills": [
       "Agile methodology",
       "Bash scripting",
+      "Continuous integration",
       "Data analysis",
       "Data migration",
       "Data visualization",
+      "DevOps",
       "Performance auditing",
       "Statistics",
       "Technical documentation",
       "User experience",
-      "Web accessibility",
       "Wireframing"
     ]
   }

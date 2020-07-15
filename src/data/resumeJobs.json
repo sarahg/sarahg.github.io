@@ -6,11 +6,11 @@
     "roles": [
       {
         "title": "Support Manager",
-        "description": "Mentor and manage a remote team of senior support engineers. Resolve technical escalations, build internal tools, and analyze data to continuously improve customer experience."
+        "description": "Mentor a remote team of senior-level support engineers. Resolve technical escalations, build internal tools, and analyze data to continuously improve customer experience."
       },
       {
         "title": "Senior Customer Success Engineer",
-        "description": "Provided technical guidance to customers. Included analyzing log files, traffic data, codebase structure/contents and identifying potential points of failure, as well as areas of improvement."
+        "description": "Provided technical guidance to customers building and deploying websites. Included analyzing log files, traffic data, and site codebases, and working with site developers to optimize for scale and agility."
       }
     ]
   },
@@ -20,8 +20,8 @@
     "daterange": "July 2014 - September 2017",
     "roles": [
       {
-        "title": "Senior Developer",
-        "description": "Agile website development for progressive advocacy organizations. Spec writing, custom Drupal module development and advanced site building using modern build tools."
+        "title": "Senior Developer/Tech Lead",
+        "description": "Agile website development for non-profits, unions, and universities. Spec writing, scoping, and full-stack CMS development using modern build tools."
       }
     ]
   },
@@ -43,7 +43,7 @@
     "roles": [
       {
         "title": "Multimedia Designer",
-        "description": "Designed and developed hands-on exhibits, data visualizations, and web experiences using Drupal and related web technologies."
+        "description": "Designed and developed hands-on exhibits, data visualizations, and interactive digital experiences."
       }
     ]
   }

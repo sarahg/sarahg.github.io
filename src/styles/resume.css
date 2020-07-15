@@ -150,10 +150,6 @@ header:after {
   height: 0;
 }
 
-#resume p.linkedin {
-  margin-top: 1.5em;
-}
-
 /* Small screens */
 
 @media screen and (max-width: 799px) {

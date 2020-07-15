@@ -34,11 +34,6 @@ function Resume() {
               </p>
               <h2>Experience</h2>
               <Jobs></Jobs>
-              <p className="linkedin">
-                <a href="https://www.linkedin.com/in/sarahgerman/">
-                  View more work experience on LinkedIn &rarr;
-                </a>
-              </p>
             </article>
             <aside>
               <h2>Proficiencies</h2>

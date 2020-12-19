@@ -1,19 +1,20 @@
 [
   {
-    "languages": ["JavaScript", "Python", "SQL", "PHP"]
+    "languages": ["Python", "JavaScript", "SQL", "PHP"]
   },
   {
     "tools": [
+      "BigQuery",
       "Docker",
       "Drupal",
       "Git",
+      "Google Cloud Platform",
       "GraphQL",
+      "Kubernetes",
       "New Relic",
       "Node.js",
       "PostgreSQL",
-      "React",
-      "Redis",
-      "Varnish/VCL"
+      "Redis"
     ]
   },
   {
@@ -22,14 +23,12 @@
       "Bash scripting",
       "Continuous integration",
       "Data analysis",
-      "Data migration",
       "Data visualization",
       "DevOps",
+      "Incident response",
       "Performance auditing",
       "Statistics",
-      "Technical documentation",
-      "User experience",
-      "Wireframing"
+      "Technical documentation"
     ]
   }
 ]

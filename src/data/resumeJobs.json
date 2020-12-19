@@ -5,12 +5,16 @@
     "daterange": "September 2017 - Present",
     "roles": [
       {
+        "title": "Platform Reliability Manager",
+        "description": "Detect and address infrastructure issues that impact platform stability. Analyze and report platform health data. Manage and scale on-call engineering procedures."
+      },
+      {
         "title": "Support Manager",
-        "description": "Mentor a remote team of senior-level support engineers. Resolve technical escalations, build internal tools, and analyze data to continuously improve customer experience."
+        "description": "Mentored a remote team of support engineers. Resolved escalations, developed internal tools, and analyzed data to continuously improve customer experience."
       },
       {
         "title": "Senior Customer Success Engineer",
-        "description": "Provided technical guidance to customers building and deploying websites. Included analyzing log files, traffic data, and site codebases, and working with site developers to optimize for scale and agility."
+        "description": "Provided technical guidance to developers working on the Pantheon platform."
       }
     ]
   },
@@ -21,7 +25,7 @@
     "roles": [
       {
         "title": "Senior Developer/Tech Lead",
-        "description": "Agile website development for non-profits, unions, and universities. Spec writing, scoping, and full-stack CMS development using modern build tools."
+        "description": "Agile website development for non-profits, unions, and universities."
       }
     ]
   },
@@ -32,7 +36,7 @@
     "roles": [
       {
         "title": "Web Developer",
-        "description": "Architected CMS-driven solutions for multimedia content creation and syndication for public radio programs. Continuously improved Drupal website performance."
+        "description": "Developed CMS-driven solutions for multimedia content creation and syndication for public radio programs."
       }
     ]
   },

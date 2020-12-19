@@ -29,8 +29,8 @@ function Resume() {
               <h2>Summary</h2>
               <p className="summary">
                 I am a software engineer and technical leader with 13 years of
-                professional experience across the stack. In 2020, I'm focused
-                on JavaScript, data science, and customer success.
+                professional experience across the stack. In 2021, I'm focusing
+                on DevOps, utilizing big data, and customer success.
               </p>
               <h2>Experience</h2>
               <Jobs></Jobs>

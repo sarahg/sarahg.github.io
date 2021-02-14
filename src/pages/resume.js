@@ -26,12 +26,6 @@ function Resume() {
           </header>
           <section className="jobs">
             <article>
-              <h2>Summary</h2>
-              <p className="summary">
-                I am a software engineer and technical leader with 13 years of
-                professional experience across the stack. In 2021, I'm focusing
-                on DevOps, utilizing big data, and customer success.
-              </p>
               <h2>Experience</h2>
               <Jobs></Jobs>
             </article>

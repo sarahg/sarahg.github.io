@@ -6,7 +6,7 @@
     "roles": [
       {
         "title": "Platform Reliability Manager",
-        "description": "Detect and address infrastructure issues that impact platform stability. Analyze and report platform health data. Manage and scale on-call engineering procedures."
+        "description": "Detect and address patterns of platform behavior that impact stability and uptime. Analyze and report platform health data. Manage on-call rotations and incident response."
       },
       {
         "title": "Support Manager",

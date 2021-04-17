@@ -9,25 +9,21 @@
       "Drupal",
       "Git",
       "Google Cloud Platform",
-      "GraphQL",
-      "Kubernetes",
+      "Graphite/Grafana",
       "New Relic",
       "Node.js",
-      "PostgreSQL",
       "Redis"
     ]
   },
   {
     "skills": [
-      "Agile methodology",
-      "Bash scripting",
-      "Continuous integration",
+      "Application security",
       "Data analysis",
       "Data visualization",
       "DevOps",
       "Incident response",
       "Performance auditing",
-      "Statistics",
+      "Shell scripting",
       "Technical documentation"
     ]
   }

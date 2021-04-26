@@ -6,15 +6,15 @@
     "roles": [
       {
         "title": "Platform Reliability Manager",
-        "description": "Detect and address patterns of platform behavior that impact stability and uptime. Analyze and report platform health data. Manage on-call rotations and incident response."
+        "description": "Detect and address patterns of platform behavior that impact reliability and performance. Analyze and report platform health data. Manage on-call rotations and cross-team incident response."
       },
       {
         "title": "Support Manager",
-        "description": "Mentored a remote team of support engineers. Developed internal tools and analyzed platform data to continuously improve customer experience."
+        "description": "Mentored a remote team of senior support engineers. Developed internal tools and analyzed data to continuously improve both customer and employee experience on the platform."
       },
       {
         "title": "Senior Customer Success Engineer",
-        "description": "Provided technical guidance to developers working on the Pantheon platform. Resolved performance and security escalations. Wrote documentation and delievered trainings for the support team."
+        "description": "Provided technical guidance to developers working on the Pantheon platform. Resolved application performance and security escalations. Created documentation and trainings for the CSE team."
       }
     ]
   },
@@ -25,7 +25,7 @@
     "roles": [
       {
         "title": "Senior Developer/Tech Lead",
-        "description": "Agile website development for non-profits, unions, and universities."
+        "description": "Agile website development for non-profits, unions, and universities, building with Drupal and modern JavaScript toolkits."
       }
     ]
   },
@@ -36,7 +36,7 @@
     "roles": [
       {
         "title": "Web Developer",
-        "description": "Developed CMS-driven solutions for multimedia content creation and syndication for public radio programs."
+        "description": "Developed CMS-driven solutions for multimedia content creation and syndication for public radio programs. Worked with Ruby on Rails, Drupal and various frontend technologies."
       }
     ]
   },
@@ -47,7 +47,7 @@
     "roles": [
       {
         "title": "Multimedia Designer",
-        "description": "Designed and developed hands-on exhibits, data visualizations, and interactive digital experiences."
+        "description": "Designed and developed hands-on exhibits, data visualizations, and interactive digital experiences. Full-stack development work utilizing JavaScript, Python, PHP, and SQL."
       }
     ]
   }

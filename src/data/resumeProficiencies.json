@@ -4,20 +4,22 @@
   },
   {
     "tools": [
-      "BigQuery",
+      "BigQuery/Looker",
       "Docker",
-      "Drupal",
       "Git",
       "Google Cloud Platform",
       "Graphite/Grafana",
+      "Kubernetes",
       "New Relic",
       "Node.js",
+      "PostgreSQL",
       "Redis"
     ]
   },
   {
     "skills": [
-      "Application security",
+      "CMS development",
+      "Continuous integration",
       "Data analysis",
       "Data visualization",
       "DevOps",

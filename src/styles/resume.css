@@ -163,6 +163,9 @@ header:after {
   div#print {
     display: none !important;
   }
+  aside {
+    margin-top: 1.5em;
+  }
 }
 
 /* Everybody else */

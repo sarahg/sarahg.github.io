@@ -27,14 +27,14 @@ function Homepage() {
           </h2>
           <p>
             I work on platform reliability at{" "}
-            <a href="https://www.pantheon.io">Pantheon</a>, where we help people
-            develop and scale high-performance websites on cloud infrastructure.
+            <a href="https://www.pantheon.io">Pantheon</a>, where we run websites 
+            powered by open-source software on containerized cloud infrastructure.
           </p>
           <p>
-            Offline, I make{" "}
-            <a href="https://www.catpartybrewing.party">beer</a>, play a few
-            instruments, enjoy the outdoors (even in the winter), and hang out
-            with my cats. 
+            I'm also into local politics, playing drums/piano/guitar (sorry
+            neighbors),{" "}
+            <a href="https://www.catpartybrewing.party">brewing beer</a>, and
+            hanging out with my cats.
           </p>
           <ul className="links">
             <li>

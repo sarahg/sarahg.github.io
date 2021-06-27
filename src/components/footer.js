@@ -10,7 +10,6 @@ function Footer() {
             <li><a href="https://www.drupal.org/user/562544">Drupal</a></li>
             <li><a href="https://github.com/sarahg">GitHub</a></li>
             <li><a href="https://instagram.com/heygermano">Instagram</a></li>
-            <li><a href="https://www.last.fm/user/hey_germano">Last.fm</a></li>
             <li><a href="https://www.linkedin.com/in/sarahgerman">LinkedIn</a></li>
             <li><a href="https://twitter.com/hey_germano">Twitter</a></li>
         </ul>

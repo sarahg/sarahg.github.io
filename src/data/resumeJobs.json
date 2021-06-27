@@ -2,11 +2,11 @@
   {
     "company": "Pantheon",
     "url": "https://pantheon.io",
-    "daterange": "September 2017 - Present",
+    "daterange": "September 2017 - June 2021",
     "roles": [
       {
         "title": "Platform Reliability Manager",
-        "description": "Detect and address patterns of platform behavior that impact stability and uptime. Analyze and report platform health data. Manage on-call rotations and incident response."
+        "description": "Detect and address patterns of system behavior that impact platform service-level objectives. Analyze and report platform health data. Manage on-call rotations and incident response."
       },
       {
         "title": "Support Manager",

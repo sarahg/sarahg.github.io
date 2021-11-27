@@ -14,24 +14,8 @@ function Homepage() {
       <div>
         <div id="container" className="dark-wrap">
           <Header headerText="Sarah German"></Header>
-          <h2>
-            <span className="fade-in one">
-              <i className="e1a-floppy_disk"></i> Software Engineer
-            </span>
-            <span className="fade-in two">
-              <i className="e1a-beer"></i> Beer Maker
-            </span>
-            <span className="fade-in three">
-              <i className="e1a-snowflake"></i> Minneapolitan
-            </span>
-          </h2>
-          <p>Hey there. I'm Sarah's website. There is not a lot going on here right now, but thanks for stopping by.</p>
-          <ul className="links">
-            <li>
-              <i className="e1a-metal_tone2 e1a-2x"></i>
-              <Link to="/resume/">Sarah's resume</Link>
-            </li>
-          </ul>
+          <p>Hey there. I'm Sarah's old website. Welcome back to 2016, when I thought it'd be fun to make a GatsbyJS site and over-engineer the heck out of my <a href="/resume">resume page</a> by <a href="https://github.com/sarahg/sarahg.github.io/blob/gatsby-dev/src/components/resumeJobs.js">populating it with GraphQL</a>.</p>
+          <p>Anyways, you can find my current site over here: <Link to="https://sarahgerman.com">https://sarahgerman.com</Link></p>
         </div>
         <Footer></Footer>
       </div>

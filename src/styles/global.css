@@ -90,7 +90,7 @@ h1 {
   width: 620px;
   font-size: 18px;
   line-height: 26px;
-  margin: 0 0 1em 0;
+  margin: 1em 0;
   color: #F5ECEC;
 }
 .dark-wrap p:last-child {

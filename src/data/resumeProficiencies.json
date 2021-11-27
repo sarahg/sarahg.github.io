@@ -1,27 +1,28 @@
 [
   {
-    "languages": ["Python", "JavaScript", "SQL", "PHP"]
+    "languages": ["JavaScript", "Python", "PHP", "SQL", "Go"]
   },
   {
     "tools": [
-      "BigQuery",
+      "Cloudflare",
       "Docker",
       "Drupal",
-      "Git",
+      "Eleventy",
+      "Gatsby",
       "Google Cloud Platform",
-      "Graphite/Grafana",
       "New Relic",
       "Node.js",
-      "Redis"
+      "React",
+      "TypeScript",
+      "WordPress"
     ]
   },
   {
     "skills": [
-      "Application security",
-      "Data analysis",
-      "Data visualization",
-      "DevOps",
+      "Automation (CI/CD)",
+      "Data analysis & visualization",
       "Incident response",
+      "Software observability",
       "Performance auditing",
       "Shell scripting",
       "Technical documentation"

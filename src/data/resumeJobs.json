@@ -1,20 +1,31 @@
 [
   {
+    "company": "Clockwork",
+    "url": "https://clockwork.com",
+    "daterange": "July 2021 - Present",
+    "roles": [
+      {
+        "title": "Principal Software Engineer",
+        "description": "Collaboration with a cross-functional team on strategic web projects for clients. I provide expertise in the engineering, architecting, testing, and deploying of software at-scale."
+      }
+    ]
+  },
+  {
     "company": "Pantheon",
     "url": "https://pantheon.io",
     "daterange": "September 2017 - June 2021",
     "roles": [
       {
         "title": "Platform Reliability Manager",
-        "description": "Detect and address patterns of system behavior that impact platform service-level objectives. Analyze and report platform health data. Manage on-call rotations and incident response."
+        "description": "Detect and address patterns of system behavior that impact platform service-level objectives. Analyze and report platform health data."
       },
       {
         "title": "Support Manager",
-        "description": "Mentored a remote team of support engineers. Developed internal tools and analyzed platform data to continuously improve customer experience."
+        "description": "Mentored a remote team of senior support engineers and served as the primary technical escalation point for enterprise support."
       },
       {
         "title": "Senior Customer Success Engineer",
-        "description": "Provided technical guidance to developers working on the Pantheon platform. Resolved performance and security escalations. Wrote documentation and delievered trainings for the support team."
+        "description": "Provided technical guidance to developers working on the Pantheon platform."
       }
     ]
   },
@@ -25,7 +36,7 @@
     "roles": [
       {
         "title": "Senior Developer/Tech Lead",
-        "description": "Agile website development for non-profits, unions, and universities."
+        "description": "Agile, full-stack website development for national non-profits, labor unions, and universites."
       }
     ]
   },
@@ -36,7 +47,7 @@
     "roles": [
       {
         "title": "Web Developer",
-        "description": "Developed CMS-driven solutions for multimedia content creation and syndication for public radio programs."
+        "description": "Developed CMS-driven solutions for content creation and syndication for public radio programs."
       }
     ]
   },
@@ -46,8 +57,8 @@
     "daterange": "September 2009 - November 2013",
     "roles": [
       {
-        "title": "Multimedia Designer",
-        "description": "Designed and developed hands-on exhibits, data visualizations, and interactive digital experiences."
+        "title": "Multimedia Developer",
+        "description": "Designed and developed hands-on museum exhibit media components, data visualizations, and interactive web experiences."
       }
     ]
   }

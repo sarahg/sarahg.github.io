@@ -13,7 +13,7 @@
   {
     "company": "Pantheon",
     "url": "https://pantheon.io",
-    "daterange": "September 2017 - June 2021",
+    "daterange": "Sept 2017 - June 2021",
     "roles": [
       {
         "title": "Platform Reliability Manager",
@@ -32,18 +32,18 @@
   {
     "company": "Advomatic",
     "url": "https://advomatic.com",
-    "daterange": "July 2014 - September 2017",
+    "daterange": "July 2014 - Sept 2017",
     "roles": [
       {
-        "title": "Senior Developer/Tech Lead",
+        "title": "Senior Developer / Tech Lead",
         "description": "Full-stack web development for national non-profits and labor unions."
       }
     ]
   },
   {
-    "company": "American Public Media | Minnesota Public Radio",
+    "company": "American Public Media",
     "url": "https://www.americanpublicmedia.org/",
-    "daterange": "November 2013 - July 2014",
+    "daterange": "Nov 2013 - July 2014",
     "roles": [
       {
         "title": "Web Developer",
@@ -54,7 +54,7 @@
   {
     "company": "Science Museum of Minnesota",
     "url": "https://smm.org",
-    "daterange": "September 2009 - November 2013",
+    "daterange": "Sept 2009 - Nov 2013",
     "roles": [
       {
         "title": "Multimedia Designer",

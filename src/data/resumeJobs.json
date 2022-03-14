@@ -16,16 +16,16 @@
     "daterange": "Sept 2017 - June 2021",
     "roles": [
       {
-        "title": "Platform Reliability Manager",
+        "title": "Site Reliability Engineering Manager",
         "description": "Detect and address patterns of system behavior that impact platform service-level objectives. Analyze and report platform health data."
       },
       {
         "title": "Support Manager",
-        "description": "Mentored a remote team of senior support engineers and served as the primary technical escalation point for enterprise support."
+        "description": "Mentored a remote team of support engineers and served as the primary technical escalation point for enterprise support."
       },
       {
         "title": "Senior Customer Success Engineer",
-        "description": "Provided technical guidance to dev teams working on the Pantheon platform."
+        "description": "Provided technical guidance to developers working on the Pantheon platform."
       }
     ]
   },

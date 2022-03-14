@@ -7,14 +7,12 @@
       "Cloudflare",
       "Docker",
       "Drupal",
-      "Eleventy",
-      "Gatsby",
       "Google Cloud Platform",
       "New Relic",
       "Node.js",
-      "React",
+      "Static site generators",
       "TypeScript",
-      "WordPress"
+      "VueJS"
     ]
   },
   {
@@ -23,8 +21,8 @@
       "Automation (CI/CD)",
       "Data analysis & visualization",
       "Incident response",
-      "Software observability",
       "Performance auditing",
+      "Software observability",
       "Shell scripting",
       "Technical documentation"
     ]
